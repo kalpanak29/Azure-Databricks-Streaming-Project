@@ -1,0 +1,15 @@
+{
+	"name": "uber-project-adf-kp",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d72c5413-ff15-4ab4-8f0f-553f02c916ed",
+		"tenantId": "53d72fc1-51bc-402e-983a-dc86df068cb9"
+	}
+}
